@@ -5,7 +5,7 @@ I'm a **Business Informatics BSc. student** at the **University of Debrecen**. I
 - **Data Engineering**
 - **Data Analysis**
 - **Data Visualization**
-- **Statistical Methods** to uncover hidden patterns
+- **Statistical Methods**
 
 ## 📬 Contact
 📧 **Email**: dorukcelikeloglu17@gmail.com

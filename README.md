@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doruk Celikeloglu</h1>
 <h3 align="center">I'm a Business Informatics BSc. student at the University of Debrecen with a passion for data. I enjoy learning about data engineering, analysis, visualization, and statistical methods to uncover insights.</h3>
 
-- 📫 How to reach me: **dorukcelikeloglu17@gmail.com**.
+- 📫 How to reach me: **dorukcelikeloglu17@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
